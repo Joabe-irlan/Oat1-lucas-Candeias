@@ -1,4 +1,4 @@
-package Dedê Eventos
+package Dede Eventos
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test

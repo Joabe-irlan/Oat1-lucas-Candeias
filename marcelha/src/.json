@@ -1,10 +1,10 @@
 {
-  "Dedê Eventos": "Sistema de gerenciamento de eventos",
+  "Dende Eventos": "Sistema de gerenciamento de eventos",
   "structure": {
     "src": {
       "main": {
         "kotlin": {
-          "Readme": "Código fonte lógico (.kt)"
+          "Readme": "Codigo fonte logico (.kt)"
         },
         "resources": {
           "Readme": "Arquivos de configuração, imagens e layouts"
@@ -16,7 +16,7 @@
         }
       }
     },
-    "build.gradle.kts": "Script de build e dependências",
+    "build.gradle.kts": "Script de build e dependencias",
     "settings.gradle.kts": "Configurações do nome do projeto"
   }
 }

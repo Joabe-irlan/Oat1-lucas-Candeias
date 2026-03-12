@@ -1,6 +1,6 @@
 fun main() {
     while (true) {
-        println("\n--- DENDÊ EVENTOS (MARSELHA) ---")
+        println("\n--- DENDE EVENTOS (MARSELHA) ---")
         println("1. Inativar Usuário")
         println("2. Reativar Usuário")
         println("3. Listar Usuários")
@@ -11,7 +11,7 @@ fun main() {
         when (opcao) {
             1 -> inativarUsuario()
             2 -> reativarUsuario()
-            3 -> printTable("TODOS OS USUÁRIOS", Repositorio.usuarios)
+            3 -> printTable("TODOS OS USUARIOS", Repositorio.usuarios)
             0 -> {
                 println("Encerrando...")
                 break

@@ -1,5 +1,5 @@
 import java.util.*
-// Dendê Eventos - Sistema de gerenciamento de eventos
+// Dende Eventos - Sistema de gerenciamento de eventos
 data class Usuario(
     var nome: String,
     var dataNascimento: String,
@@ -10,7 +10,7 @@ data class Usuario(
     var organizador: Boolean
 )
 
-// Tipo de evento: social, corporativo, acadêmico, cultural, religioso, esportivo, feira, congresso, oficina, curso, treinamento, aula, seminário, palestra, show, festival, exposição, retiro, culto, celebração, campeonato, corrida
+// Tipo de evento: social, corporativo, academico, cultural, religioso, esportivo, feira, congresso, oficina, curso, treinamento, aula, seminário, palestra, show, festival, exposição, retiro, culto, celebração, campeonato, corrida
 data class Evento(
     var nome: String,
     var descricao: String,
