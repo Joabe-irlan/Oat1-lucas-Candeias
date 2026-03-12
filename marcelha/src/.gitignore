@@ -1,4 +1,4 @@
-# Compilados e Binários
+# Compilados e Binarios
 /build/
 /out/
 .gradle/
@@ -19,7 +19,7 @@ local.properties
 *.apk
 *.aar
 
-# Log e Temporários
+# Log e Temporarios
 *.log
 .DS_Store (macOS)
 Thumbs.db (Windows)
